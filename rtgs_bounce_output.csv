@@ -1,0 +1,31 @@
+Narration,Category,LLM Bounce Type
+credit-rtgs dt020818return acincorrect-,RTGS BOUNCED,RTGS
+rtn:rtgs-barb202105111131909016-vr worldwide      pvt l,RTGS BOUNCED,RTGS
+rtn:rtgs-barb202106091160807481-shahjad      traders,RTGS BOUNCED,RTGS
+cr. for rtgsreturnicich03062542316,RTGS BOUNCED,RTGS
+rtgs-return-/mismatch in customer and if hdfcr52023030387480548 sc br//-bhavnaben manojbhai patel-hdfcr5 2023030387480548,RTGS BOUNCED,RTGS
+rtgs-return-/mismatch in customer and if hdfcr52023030487663533 sc br//-bhavnaben manojkumar patel-hdfcr 52023030487663533,RTGS BOUNCED,RTGS
+rtn:rtgs-barb202203102069800314-shivamfilament,RTGS BOUNCED,RTGS
+rtgs-return--divyaroh enterprises-cnrbr52023072760278706-/fast/fast,RTGS BOUNCED,RTGS
+bytransfer-rtgs utrno:sbinr52018082700074062-rtgsreversal.utr=sbinr52018082700074062reason=00,RTGS BOUNCED,RTGS
+rtn:rtgs-barb202203102069800314-shivam      filament,RTGS BOUNCED,RTGS
+rtgs/return/utibr52022071800178055/narr/,RTGS BOUNCED,RTGS
+rtgs-return-closed account number-shree sai textiles -hdfcr52022021096032412,RTGS BOUNCED,RTGS
+rtgs-return/ibkl20221017500154,RTGS BOUNCED,RTGS
+"rtgs dr-kkbk0002856-pramukh electronics- hdfcr52022061775954656 netbank, mum-hdfcr52022061775954656-lloy dreturn",RTGS BOUNCED,RTGS
+rtgs rev sbin0001141 s   aenterprises bangalore avcnrbr52022091089625534,RTGS BOUNCED,RTGS
+rtgs return-icicr42022060200524121-shrivardhman milkdairy pvt ltd-//icic202206024000524121//ac04,RTGS BOUNCED,RTGS
+rtgs failed-icicr42022080800554659-rjct-rahitrading-sbin0014976-37822426941,RTGS BOUNCED,RTGS
+rtgs failed-icicr42022080800554601-rjct-gajananproducts-utib0001337-917020060833629,RTGS BOUNCED,RTGS
+rtgs failed-icicr42022080800554747-rjct-tricomfoods privatelimited-yesb0000650-065063400000125,RTGS BOUNCED,RTGS
+rtgs failed-icicr42022080800554636-rjct-jayprakashkishanchandrarao-sbin0003792-30386745112,RTGS BOUNCED,RTGS
+rtgs return-icicr42023030300554452-pray dairymachineryindustries-///////////////////account close,RTGS BOUNCED,RTGS
+rtgs failed-icicr42023032400569396-invalid businessdate in utr-shrivardhman milkdairy pvt lt-ut,RTGS BOUNCED,RTGS
+rtgs failed-icicr42023032400569385-invalid businessdate in utr-shivamdairy product-barb0bagdan-1,RTGS BOUNCED,RTGS
+rtgs return-ac01-incorrect account number-tatertrading company-aublr52022012751561450,RTGS BOUNCED,RTGS
+rtgs return/idfbr52022110800494876/narr-narrative //narr idfb2022,RTGS BOUNCED,RTGS
+rtgs return/idfbr52023041000351053/ac04-closed account number //ac04 idfb2023,RTGS BOUNCED,RTGS
+rtgs return/idfbr52023041000357613/ac04-closed account number //ac04 idfb2023,RTGS BOUNCED,RTGS
+return against rtgs transfer :vijbh19033052571,RTGS BOUNCED,RTGS
+rtgs-return-incorrect account number-shr ee enterprise-hdfcr52021120180961029,RTGS BOUNCED,RTGS
+rtgs-return-incorrect account number-shr ee enterprise-hdfcr52021120180984216,RTGS BOUNCED,RTGS
